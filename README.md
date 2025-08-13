@@ -58,6 +58,6 @@ Compile and run the `PrayerTimesApp` class. Make sure the images are located in 
 ## Notes
 - Image files must be placed in the correct directory (`src/`) for them to display properly.
 - The search is case-insensitive but must match city names exactly as defined.
-
+  
 ## License
 This project is open-source and free to use.
