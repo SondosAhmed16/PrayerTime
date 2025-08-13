@@ -61,7 +61,3 @@ Compile and run the `PrayerTimesApp` class. Make sure the images are located in 
 
 ## License
 This project is open-source and free to use.
-
----
-
-If you want, I can help you generate a ready-to-use `.gitignore` or help with any other part!
